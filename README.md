@@ -14,5 +14,15 @@ Some of the software and hardware requirements (*Preferred*) are listed below:
 - mlagents 0.20.0
 - Unity version 2020.3.26f1
   - ML-Agents 1.4.0 Preview
+  - Animation Rigging 1.0.3
 ### Hardware
+- CPU: Intel Xeon(R) W-1250 CPU @ 3.30GHZ * 12
+- GPU : GeForce RTX 3080
+- Driver : 470.161.03
+- Memory : 10GB
+
+
+
 https://user-images.githubusercontent.com/123646240/215108499-e783f526-d950-49c7-bbd4-c501adc273ff.mp4
+
+[YouTube Video](https://www.youtube.com/watch?v=BFh_HsWkuDM)
