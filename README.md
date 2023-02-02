@@ -21,8 +21,9 @@ Some of the software and hardware requirements (*Preferred*) are listed below:
 - Driver : 470.161.03
 - Memory : 10GB
 
-
+The Link to a detailed video can be found here:
+[YouTube Video](https://www.youtube.com/watch?v=BFh_HsWkuDM)
 
 https://user-images.githubusercontent.com/123646240/215108499-e783f526-d950-49c7-bbd4-c501adc273ff.mp4
 
-[YouTube Video](https://www.youtube.com/watch?v=BFh_HsWkuDM)
+
