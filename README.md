@@ -2,7 +2,7 @@
 ## Introduction
 This is a repository for a mannequin control using **Unity Machine Learning Agent (ML-Agents)** and **Inverse Kinematics (IK)**.
 
-The Reinforcement Learning packages are obtained from [ML-Agents toolkit](https://github.com/Unity-Technologies/ml-agents), which is a n open-source project that enables games and simulations to serve as an environment for training agents.
+The Reinforcement Learning packages are obtained from [ML-Agents toolkit](https://github.com/Unity-Technologies/ml-agents), which is an open-source project that enables games and simulations to serve as an environment for training agents.
 
 Some of the software and hardware requirements (*Preferred*) are listed below:
 
@@ -13,7 +13,7 @@ Some of the software and hardware requirements (*Preferred*) are listed below:
 - Tensorflow 2.3.4
 - mlagents 0.20.0
 - Unity version 2020.3.26f1
-  - ML-Agents 1.4.0 Preview
+  - ML-Agents 1.4.0-Preview
   - Animation Rigging 1.0.3
 ### Hardware
 - CPU: Intel Xeon(R) W-1250 CPU @ 3.30GHZ * 12
