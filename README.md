@@ -7,6 +7,12 @@ The Reinforcement Learning packages are obtained from [ML-Agents toolkit](https:
 Some of the software and hardware requirements (*Preferred*) are listed below:
 
 ### Software
-
+- Windows10 (64bit), Ubuntu18.04
+- Python 3.6.13
+- Anaconda 4.5.4
+- Tensorflow 2.3.4
+- mlagents 0.20.0
+- Unity version 2020.3.26f1
+-   ML-Agents 1.4.0 Preview
 ### Hardware
 https://user-images.githubusercontent.com/123646240/215108499-e783f526-d950-49c7-bbd4-c501adc273ff.mp4
